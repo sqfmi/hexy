@@ -22,7 +22,7 @@ The LEDs are laid out in a zigzag pattern:
 We used the [FastLED](https://github.com/FastLED/FastLED) library v3.3
 - Set the data pin to **13** (or any other pin if you are using another microcontroller)
 - Set the number of LEDs to **96**
-- Seet the LED Chipset to **WS2812B**
+- Set the LED Chipset to **WS2812B**
 
 ## Frame
 For best visual results, 3D print the seperator grid [hext-frame.stl](hexy-frame.stl) to keep the light from bleeding over. You would need a piece of paper/acrylic glued on top to diffuse the light so each triangle cell looks nice and crisp
