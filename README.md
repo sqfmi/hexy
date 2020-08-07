@@ -7,12 +7,13 @@ Inspired by [Mukesh Sankhla](https://www.youtube.com/c/MukeshSankhla)'s [HexMatr
 ## Hardware
 All KiCad design files under MIT license
 
-<img src="hexy.jpg" width="50%">
+<img alt="Hexy running the Pacific demo in the FastLED library" src="hexy.jpg" width="50%">
 
 ### BOM
 - 1 x PCB
 - 96 x [WS2812B-MINI](https://www.adafruit.com/product/2659)
 - 1 x [TTGO T-DISPLAY](https://www.aliexpress.com/item/33048962331.html) (or any other microcontroller)
+
 ### Wiring Pattern
 The LEDs are laid out in a zigzag pattern:
 
