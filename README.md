@@ -6,6 +6,7 @@ Inspired by [Mukesh Sankhla](https://www.youtube.com/c/MukeshSankhla)'s [HexMatr
 
 ## Hardware
 All KiCad design files under MIT license
+
 <img src="hexy.jpg" width="50%">
 ### BOM
 - 1 x PCB
