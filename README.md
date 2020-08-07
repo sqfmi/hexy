@@ -1,6 +1,6 @@
 # Hexy by SQFMI
 
-Inspired by [Mukesh Sankhla](https://www.youtube.com/c/MukeshSankhla)'s [HexMatrix](https://hackaday.io/project/173732-rgb-hexmatrix-iot-clock) project, this is a smaller version using 96 35x35mm RGB LEDs ([WS2812B-MINI](https://www.adafruit.com/product/2659))
+Inspired by [Mukesh Sankhla](https://www.youtube.com/c/MukeshSankhla)'s [HexMatrix](https://hackaday.io/project/173732-rgb-hexmatrix-iot-clock) project, this is a smaller version using 96 3.5x3.5mm RGB LEDs ([WS2812B-MINI](https://www.adafruit.com/product/2659))
 
 ![hexy](hexygif.gif)
 
