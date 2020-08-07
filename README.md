@@ -8,6 +8,7 @@ Inspired by [Mukesh Sankhla](https://www.youtube.com/c/MukeshSankhla)'s [HexMatr
 All KiCad design files under MIT license
 
 <img src="hexy.jpg" width="50%">
+
 ### BOM
 - 1 x PCB
 - 96 x [WS2812B-MINI](https://www.adafruit.com/product/2659)
