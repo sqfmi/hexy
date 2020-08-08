@@ -26,4 +26,4 @@ We used the [FastLED](https://github.com/FastLED/FastLED) library v3.3
 - Set the LED Chipset to **WS2812B**
 
 ## Frame
-For best visual results, 3D print the seperator grid [hext-frame.stl](hexy-frame.stl) to keep the light from bleeding over. You would need a piece of paper/acrylic glued on top to diffuse the light so each triangle cell looks nice and crisp
+For best visual results, 3D print the seperator grid [hexy-frame.stl](hexy-frame.stl) to keep the light from bleeding over. You will also need a piece of paper/acrylic glued on top to diffuse the light so each triangle cell looks nice and crisp [hexy-diffusion.dxf](hexy-diffusion.dxf)
