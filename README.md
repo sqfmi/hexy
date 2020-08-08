@@ -1,6 +1,6 @@
 # Hexy
 
-Inspired by [Mukesh Sankhla](https://www.youtube.com/c/MukeshSankhla)'s [HexMatrix](https://hackaday.io/project/173732-rgb-hexmatrix-iot-clock) project, this is a smaller version using 96 3.5x3.5mm RGB LEDs ([WS2812B-MINI](https://www.adafruit.com/product/2659))
+Inspired by [Mukesh Sankhla](https://www.youtube.com/c/MukeshSankhla)'s [HexMatrix](https://hackaday.io/project/173732-rgb-hexmatrix-iot-clock) project, this is a smaller version using 96 3.5x3.5MM RGB LEDs ([WS2812B-MINI](https://www.adafruit.com/product/2659))
 
 ![hexy](hexygif.gif)
 
@@ -13,6 +13,7 @@ All KiCad design files under MIT license
 - 1 x PCB
 - 96 x [WS2812B-MINI](https://www.adafruit.com/product/2659)
 - 1 x [TTGO T-DISPLAY](https://www.aliexpress.com/item/33048962331.html) (or any other microcontroller)
+- 2 x [2.54MM SMD Pin Headers](https://www.digikey.com/product-detail/en/amphenol-icc-fci/10129380-906001ALF/609-10129380-906001ALFCT-ND/11630008) (You only need 3 pins connected i.e. DIN/VCC/GND but using a full row of 12 pins will mount more securely)
 
 ### Wiring Pattern
 The LEDs are laid out in a zigzag pattern:
